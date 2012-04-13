@@ -1,0 +1,6 @@
+agb/
+customer/account/
+women.html
+women.html?color%5B208%5D=208
+women.html?color%5B208%5D=208&product_brand%5B123%5D=123
+men.html
